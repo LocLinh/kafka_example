@@ -1,0 +1,1960 @@
+Model parameters of key=A_0 :
+{'layer_num': 1, 'neurons': [8], 'activation_func': ['tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.7826086956521738
+0.013333333333333334
+0.6287536231884058
+==============================
+Model parameters of key=A_1 :
+{'layer_num': 1, 'neurons': [8], 'activation_func': ['tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.631578947368421
+0.08
+0.5212631578947369
+==============================
+Model parameters of key=A_2 :
+{'layer_num': 1, 'neurons': [8], 'activation_func': ['relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.5333333333333333
+0.013333333333333334
+0.42933333333333334
+==============================
+Model parameters of key=A_3 :
+{'layer_num': 1, 'neurons': [8], 'activation_func': ['relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4
+0.5263157894736842
+0.02666666666666667
+0.4263859649122807
+==============================
+Model parameters of key=A_4 :
+{'layer_num': 1, 'neurons': [8], 'activation_func': ['sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.6
+0.7000000000000001
+0.013333333333333334
+0.5626666666666668
+==============================
+Model parameters of key=A_5 :
+{'layer_num': 1, 'neurons': [8], 'activation_func': ['sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6
+0.7000000000000001
+0.14666666666666667
+0.5893333333333334
+==============================
+Model parameters of key=A_6 :
+{'layer_num': 1, 'neurons': [16], 'activation_func': ['tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.26666666666666666
+0.02666666666666667
+0.21866666666666668
+==============================
+Model parameters of key=A_7 :
+{'layer_num': 1, 'neurons': [16], 'activation_func': ['tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4
+0.5263157894736842
+0.14666666666666667
+0.45038596491228067
+==============================
+Model parameters of key=A_8 :
+{'layer_num': 1, 'neurons': [16], 'activation_func': ['relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.3333333333333333
+0.16666666666666669
+0.06666666666666667
+0.1466666666666667
+==============================
+Model parameters of key=A_9 :
+{'layer_num': 1, 'neurons': [16], 'activation_func': ['relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.4210526315789474
+0.08
+0.35284210526315796
+==============================
+Model parameters of key=A_10 :
+{'layer_num': 1, 'neurons': [16], 'activation_func': ['sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.5333333333333333
+0.02666666666666667
+0.43200000000000005
+==============================
+Model parameters of key=A_11 :
+{'layer_num': 1, 'neurons': [16], 'activation_func': ['sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.5882352941176471
+0.10666666666666666
+0.491921568627451
+==============================
+Model parameters of key=A_12 :
+{'layer_num': 1, 'neurons': [32], 'activation_func': ['tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.6
+0.7272727272727273
+0.02666666666666667
+0.5871515151515152
+==============================
+Model parameters of key=A_13 :
+{'layer_num': 1, 'neurons': [32], 'activation_func': ['tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4
+0.5263157894736842
+0.013333333333333334
+0.423719298245614
+==============================
+Model parameters of key=A_14 :
+{'layer_num': 1, 'neurons': [32], 'activation_func': ['relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.7368421052631579
+0.02666666666666667
+0.5948070175438596
+==============================
+Model parameters of key=A_15 :
+{'layer_num': 1, 'neurons': [32], 'activation_func': ['relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.6956521739130435
+0.1933333333333333
+0.5951884057971014
+==============================
+Model parameters of key=A_16 :
+{'layer_num': 1, 'neurons': [32], 'activation_func': ['sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.4
+0.3076923076923077
+0.09333333333333332
+0.26482051282051283
+==============================
+Model parameters of key=A_17 :
+{'layer_num': 1, 'neurons': [32], 'activation_func': ['sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4
+0.3076923076923077
+0.17333333333333337
+0.28082051282051285
+==============================
+Model parameters of key=A_18 :
+{'layer_num': 1, 'neurons': [3], 'activation_func': ['tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.15384615384615385
+0.09333333333333332
+0.14174358974358975
+==============================
+Model parameters of key=A_19 :
+{'layer_num': 1, 'neurons': [3], 'activation_func': ['tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.6666666666666666
+0.04000000000000001
+0.5413333333333333
+==============================
+Model parameters of key=A_20 :
+{'layer_num': 1, 'neurons': [3], 'activation_func': ['relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.06666666666666667
+0.6902564102564102
+==============================
+Model parameters of key=A_21 :
+{'layer_num': 1, 'neurons': [3], 'activation_func': ['relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4666666666666667
+0.6
+0.10666666666666666
+0.5013333333333333
+==============================
+Model parameters of key=A_22 :
+{'layer_num': 1, 'neurons': [3], 'activation_func': ['sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.3333333333333333
+0.5
+0.04000000000000001
+0.40800000000000003
+==============================
+Model parameters of key=A_23 :
+{'layer_num': 1, 'neurons': [3], 'activation_func': ['sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.8
+0.13333333333333333
+0.6666666666666667
+==============================
+Model parameters of key=B_0 :
+{'layer_num': 1, 'neurons': [8], 'activation_func': ['tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.3333333333333333
+0.37499999999999994
+0.05999999999999999
+0.312
+==============================
+Model parameters of key=B_1 :
+{'layer_num': 1, 'neurons': [8], 'activation_func': ['tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.5882352941176471
+0.060000000000000005
+0.4825882352941177
+==============================
+Model parameters of key=B_2 :
+{'layer_num': 1, 'neurons': [8], 'activation_func': ['relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.6956521739130435
+0.04000000000000001
+0.5645217391304348
+==============================
+Model parameters of key=B_3 :
+{'layer_num': 1, 'neurons': [8], 'activation_func': ['relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.6956521739130435
+0.14
+0.5845217391304348
+==============================
+Model parameters of key=B_4 :
+{'layer_num': 1, 'neurons': [8], 'activation_func': ['sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.4
+0.5263157894736842
+0.013333333333333334
+0.423719298245614
+==============================
+Model parameters of key=B_5 :
+{'layer_num': 1, 'neurons': [8], 'activation_func': ['sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6
+0.6666666666666665
+0.06666666666666667
+0.5466666666666665
+==============================
+Model parameters of key=B_6 :
+{'layer_num': 1, 'neurons': [16], 'activation_func': ['tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.761904761904762
+0.04000000000000001
+0.6175238095238096
+==============================
+Model parameters of key=B_7 :
+{'layer_num': 1, 'neurons': [16], 'activation_func': ['tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4
+0.4705882352941177
+0.0
+0.37647058823529417
+==============================
+Model parameters of key=B_8 :
+{'layer_num': 1, 'neurons': [16], 'activation_func': ['relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.4
+0.39999999999999997
+0.09333333333333332
+0.33866666666666667
+==============================
+Model parameters of key=B_9 :
+{'layer_num': 1, 'neurons': [16], 'activation_func': ['relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4
+0.4705882352941177
+0.15333333333333332
+0.40713725490196084
+==============================
+Model parameters of key=B_10 :
+{'layer_num': 1, 'neurons': [16], 'activation_func': ['sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.2
+0.14285714285714288
+0.05999999999999999
+0.1262857142857143
+==============================
+Model parameters of key=B_11 :
+{'layer_num': 1, 'neurons': [16], 'activation_func': ['sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4
+0.4705882352941177
+0.0
+0.37647058823529417
+==============================
+Model parameters of key=B_12 :
+{'layer_num': 1, 'neurons': [32], 'activation_func': ['tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.6666666666666666
+0.04000000000000001
+0.5413333333333333
+==============================
+Model parameters of key=B_13 :
+{'layer_num': 1, 'neurons': [32], 'activation_func': ['tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6
+0.7500000000000001
+0.0
+0.6000000000000001
+==============================
+Model parameters of key=B_14 :
+{'layer_num': 1, 'neurons': [32], 'activation_func': ['relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.6
+0.7272727272727273
+0.10666666666666667
+0.6031515151515152
+==============================
+Model parameters of key=B_15 :
+{'layer_num': 1, 'neurons': [32], 'activation_func': ['relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6
+0.7272727272727273
+0.13999999999999999
+0.6098181818181819
+==============================
+Model parameters of key=B_16 :
+{'layer_num': 1, 'neurons': [32], 'activation_func': ['sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.631578947368421
+0.13333333333333333
+0.5319298245614035
+==============================
+Model parameters of key=B_17 :
+{'layer_num': 1, 'neurons': [32], 'activation_func': ['sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4
+0.39999999999999997
+0.13333333333333333
+0.3466666666666667
+==============================
+Model parameters of key=B_18 :
+{'layer_num': 1, 'neurons': [3], 'activation_func': ['tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.8181818181818182
+0.08
+0.6705454545454547
+==============================
+Model parameters of key=B_19 :
+{'layer_num': 1, 'neurons': [3], 'activation_func': ['tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4666666666666667
+0.5555555555555556
+0.09333333333333332
+0.46311111111111114
+==============================
+Model parameters of key=B_20 :
+{'layer_num': 1, 'neurons': [3], 'activation_func': ['relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.15333333333333332
+0.7075897435897435
+==============================
+Model parameters of key=B_21 :
+{'layer_num': 1, 'neurons': [3], 'activation_func': ['relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6
+0.7272727272727273
+0.05333333333333334
+0.5924848484848486
+==============================
+Model parameters of key=B_22 :
+{'layer_num': 1, 'neurons': [3], 'activation_func': ['sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.8333333333333333
+0.04000000000000001
+0.6746666666666666
+==============================
+Model parameters of key=B_23 :
+{'layer_num': 1, 'neurons': [3], 'activation_func': ['sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.02666666666666667
+0.6822564102564102
+==============================
+Model parameters of key=B_24 :
+{'layer_num': 2, 'neurons': [8, 8], 'activation_func': ['tanh', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.4666666666666667
+0.5555555555555556
+0.07333333333333333
+0.45911111111111114
+==============================
+Model parameters of key=B_25 :
+{'layer_num': 2, 'neurons': [8, 8], 'activation_func': ['tanh', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.6666666666666666
+0.02666666666666667
+0.5386666666666666
+==============================
+Model parameters of key=B_26 :
+{'layer_num': 2, 'neurons': [8, 8], 'activation_func': ['tanh', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.6666666666666666
+0.08
+0.5493333333333333
+==============================
+Model parameters of key=B_27 :
+{'layer_num': 2, 'neurons': [8, 8], 'activation_func': ['tanh', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4666666666666667
+0.6
+0.08
+0.496
+==============================
+Model parameters of key=B_28 :
+{'layer_num': 2, 'neurons': [8, 8], 'activation_func': ['tanh', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.6
+0.6666666666666665
+0.12000000000000001
+0.5573333333333332
+==============================
+Model parameters of key=B_29 :
+{'layer_num': 2, 'neurons': [8, 8], 'activation_func': ['tanh', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4
+0.5263157894736842
+0.07333333333333333
+0.435719298245614
+==============================
+Model parameters of key=B_30 :
+{'layer_num': 2, 'neurons': [8, 8], 'activation_func': ['relu', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.4
+0.3076923076923077
+0.04666666666666666
+0.25548717948717947
+==============================
+Model parameters of key=B_31 :
+{'layer_num': 2, 'neurons': [8, 8], 'activation_func': ['relu', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.761904761904762
+0.02666666666666667
+0.6148571428571429
+==============================
+Model parameters of key=B_32 :
+{'layer_num': 2, 'neurons': [8, 8], 'activation_func': ['relu', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.04000000000000001
+0.6849230769230769
+==============================
+Model parameters of key=B_33 :
+{'layer_num': 2, 'neurons': [8, 8], 'activation_func': ['relu', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.761904761904762
+0.05333333333333334
+0.6201904761904763
+==============================
+Model parameters of key=B_34 :
+{'layer_num': 2, 'neurons': [8, 8], 'activation_func': ['relu', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.4
+0.39999999999999997
+0.05999999999999999
+0.332
+==============================
+Model parameters of key=B_35 :
+{'layer_num': 2, 'neurons': [8, 8], 'activation_func': ['relu', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.7368421052631579
+0.013333333333333334
+0.592140350877193
+==============================
+Model parameters of key=B_36 :
+{'layer_num': 2, 'neurons': [8, 8], 'activation_func': ['sigmoid', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+1.0
+1.0
+0.13333333333333333
+0.8266666666666667
+==============================
+Model parameters of key=B_37 :
+{'layer_num': 2, 'neurons': [8, 8], 'activation_func': ['sigmoid', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.631578947368421
+0.09333333333333332
+0.5239298245614035
+==============================
+Model parameters of key=B_38 :
+{'layer_num': 2, 'neurons': [8, 8], 'activation_func': ['sigmoid', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.04000000000000001
+0.6849230769230769
+==============================
+Model parameters of key=B_39 :
+{'layer_num': 2, 'neurons': [8, 8], 'activation_func': ['sigmoid', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.3333333333333333
+0.4444444444444444
+0.04000000000000001
+0.3635555555555556
+==============================
+Model parameters of key=B_40 :
+{'layer_num': 2, 'neurons': [8, 8], 'activation_func': ['sigmoid', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.0
+0.04000000000000001
+0.008000000000000002
+==============================
+Model parameters of key=B_41 :
+{'layer_num': 2, 'neurons': [8, 8], 'activation_func': ['sigmoid', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6
+0.7000000000000001
+0.08
+0.5760000000000001
+==============================
+Model parameters of key=B_42 :
+{'layer_num': 2, 'neurons': [8, 16], 'activation_func': ['tanh', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.631578947368421
+0.02666666666666667
+0.5105964912280702
+==============================
+Model parameters of key=B_43 :
+{'layer_num': 2, 'neurons': [8, 16], 'activation_func': ['tanh', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.3333333333333333
+0.4444444444444444
+0.13999999999999999
+0.38355555555555554
+==============================
+Model parameters of key=B_44 :
+{'layer_num': 2, 'neurons': [8, 16], 'activation_func': ['tanh', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.0
+0.04000000000000001
+0.008000000000000002
+==============================
+Model parameters of key=B_45 :
+{'layer_num': 2, 'neurons': [8, 16], 'activation_func': ['tanh', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4
+0.5263157894736842
+0.08
+0.43705263157894736
+==============================
+Model parameters of key=B_46 :
+{'layer_num': 2, 'neurons': [8, 16], 'activation_func': ['tanh', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.0
+0.04000000000000001
+0.008000000000000002
+==============================
+Model parameters of key=B_47 :
+{'layer_num': 2, 'neurons': [8, 16], 'activation_func': ['tanh', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.3333333333333333
+0.4444444444444444
+0.12666666666666665
+0.3808888888888889
+==============================
+Model parameters of key=B_48 :
+{'layer_num': 2, 'neurons': [8, 16], 'activation_func': ['relu', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.3333333333333333
+0.16666666666666669
+0.02666666666666667
+0.1386666666666667
+==============================
+Model parameters of key=B_49 :
+{'layer_num': 2, 'neurons': [8, 16], 'activation_func': ['relu', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.7058823529411764
+0.0
+0.5647058823529412
+==============================
+Model parameters of key=B_50 :
+{'layer_num': 2, 'neurons': [8, 16], 'activation_func': ['relu', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.02666666666666667
+0.6822564102564102
+==============================
+Model parameters of key=B_51 :
+{'layer_num': 2, 'neurons': [8, 16], 'activation_func': ['relu', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.6666666666666666
+0.013333333333333334
+0.536
+==============================
+Model parameters of key=B_52 :
+{'layer_num': 2, 'neurons': [8, 16], 'activation_func': ['relu', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.4
+0.5263157894736842
+0.04000000000000001
+0.42905263157894735
+==============================
+Model parameters of key=B_53 :
+{'layer_num': 2, 'neurons': [8, 16], 'activation_func': ['relu', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6
+0.7500000000000001
+0.013333333333333334
+0.6026666666666668
+==============================
+Model parameters of key=B_54 :
+{'layer_num': 2, 'neurons': [8, 16], 'activation_func': ['sigmoid', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.7826086956521738
+0.02666666666666667
+0.6314202898550724
+==============================
+Model parameters of key=B_55 :
+{'layer_num': 2, 'neurons': [8, 16], 'activation_func': ['sigmoid', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.7368421052631579
+0.09333333333333334
+0.608140350877193
+==============================
+Model parameters of key=B_56 :
+{'layer_num': 2, 'neurons': [8, 16], 'activation_func': ['sigmoid', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.0
+0.04000000000000001
+0.008000000000000002
+==============================
+Model parameters of key=B_57 :
+{'layer_num': 2, 'neurons': [8, 16], 'activation_func': ['sigmoid', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6
+0.7500000000000001
+0.013333333333333334
+0.6026666666666668
+==============================
+Model parameters of key=B_58 :
+{'layer_num': 2, 'neurons': [8, 16], 'activation_func': ['sigmoid', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.04000000000000001
+0.6849230769230769
+==============================
+Model parameters of key=B_59 :
+{'layer_num': 2, 'neurons': [8, 16], 'activation_func': ['sigmoid', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.8181818181818182
+0.14
+0.6825454545454547
+==============================
+Model parameters of key=B_60 :
+{'layer_num': 2, 'neurons': [8, 32], 'activation_func': ['tanh', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.8
+0.04000000000000001
+0.6480000000000001
+==============================
+Model parameters of key=B_61 :
+{'layer_num': 2, 'neurons': [8, 32], 'activation_func': ['tanh', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.6666666666666666
+0.07333333333333333
+0.548
+==============================
+Model parameters of key=B_62 :
+{'layer_num': 2, 'neurons': [8, 32], 'activation_func': ['tanh', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.0
+0.04000000000000001
+0.008000000000000002
+==============================
+Model parameters of key=B_63 :
+{'layer_num': 2, 'neurons': [8, 32], 'activation_func': ['tanh', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6
+0.7500000000000001
+0.013333333333333334
+0.6026666666666668
+==============================
+Model parameters of key=B_64 :
+{'layer_num': 2, 'neurons': [8, 32], 'activation_func': ['tanh', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.03333333333333333
+0.6835897435897436
+==============================
+Model parameters of key=B_65 :
+{'layer_num': 2, 'neurons': [8, 32], 'activation_func': ['tanh', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.631578947368421
+0.05999999999999999
+0.5172631578947369
+==============================
+Model parameters of key=B_66 :
+{'layer_num': 2, 'neurons': [8, 32], 'activation_func': ['relu', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.013333333333333334
+0.6795897435897436
+==============================
+Model parameters of key=B_67 :
+{'layer_num': 2, 'neurons': [8, 32], 'activation_func': ['relu', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.6956521739130435
+0.2066666666666667
+0.5978550724637681
+==============================
+Model parameters of key=B_68 :
+{'layer_num': 2, 'neurons': [8, 32], 'activation_func': ['relu', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.013333333333333334
+0.6795897435897436
+==============================
+Model parameters of key=B_69 :
+{'layer_num': 2, 'neurons': [8, 32], 'activation_func': ['relu', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.6666666666666666
+0.10666666666666666
+0.5546666666666666
+==============================
+Model parameters of key=B_70 :
+{'layer_num': 2, 'neurons': [8, 32], 'activation_func': ['relu', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.8
+0.88
+0.05333333333333334
+0.7146666666666668
+==============================
+Model parameters of key=B_71 :
+{'layer_num': 2, 'neurons': [8, 32], 'activation_func': ['relu', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.7826086956521738
+0.04000000000000001
+0.6340869565217391
+==============================
+Model parameters of key=B_72 :
+{'layer_num': 2, 'neurons': [8, 32], 'activation_func': ['sigmoid', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.7368421052631579
+0.04000000000000001
+0.5974736842105263
+==============================
+Model parameters of key=B_73 :
+{'layer_num': 2, 'neurons': [8, 32], 'activation_func': ['sigmoid', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6
+0.7272727272727273
+0.013333333333333334
+0.5844848484848486
+==============================
+Model parameters of key=B_74 :
+{'layer_num': 2, 'neurons': [8, 32], 'activation_func': ['sigmoid', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.0
+0.04000000000000001
+0.008000000000000002
+==============================
+Model parameters of key=B_75 :
+{'layer_num': 2, 'neurons': [8, 32], 'activation_func': ['sigmoid', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.5882352941176471
+0.013333333333333334
+0.47325490196078435
+==============================
+Model parameters of key=B_76 :
+{'layer_num': 2, 'neurons': [8, 32], 'activation_func': ['sigmoid', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+nan
+0.0
+nan
+nan
+==============================
+Model parameters of key=B_77 :
+{'layer_num': 2, 'neurons': [8, 32], 'activation_func': ['sigmoid', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.13333333333333333
+0.7035897435897435
+==============================
+Model parameters of key=B_78 :
+{'layer_num': 2, 'neurons': [8, 3], 'activation_func': ['tanh', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.8
+0.06666666666666667
+0.6533333333333334
+==============================
+Model parameters of key=B_79 :
+{'layer_num': 2, 'neurons': [8, 3], 'activation_func': ['tanh', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.5882352941176471
+0.013333333333333334
+0.47325490196078435
+==============================
+Model parameters of key=B_80 :
+{'layer_num': 2, 'neurons': [8, 3], 'activation_func': ['tanh', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.5
+0.6
+0.125
+0.505
+==============================
+Model parameters of key=B_81 :
+{'layer_num': 2, 'neurons': [8, 3], 'activation_func': ['tanh', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.631578947368421
+0.08666666666666667
+0.5225964912280702
+==============================
+Model parameters of key=B_82 :
+{'layer_num': 2, 'neurons': [8, 3], 'activation_func': ['tanh', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.4666666666666667
+0.5555555555555556
+0.02666666666666667
+0.44977777777777783
+==============================
+Model parameters of key=B_83 :
+{'layer_num': 2, 'neurons': [8, 3], 'activation_func': ['tanh', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4
+0.5714285714285713
+0.02666666666666667
+0.46247619047619043
+==============================
+Model parameters of key=B_84 :
+{'layer_num': 2, 'neurons': [8, 3], 'activation_func': ['relu', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.2857142857142857
+0.16666666666666669
+0.14285714285714285
+0.16190476190476194
+==============================
+Model parameters of key=B_85 :
+{'layer_num': 2, 'neurons': [8, 3], 'activation_func': ['relu', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.10666666666666667
+0.6982564102564102
+==============================
+Model parameters of key=B_86 :
+{'layer_num': 2, 'neurons': [8, 3], 'activation_func': ['relu', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.0
+0.02666666666666667
+0.005333333333333334
+==============================
+Model parameters of key=B_87 :
+{'layer_num': 2, 'neurons': [8, 3], 'activation_func': ['relu', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4666666666666667
+0.6
+0.12000000000000001
+0.504
+==============================
+Model parameters of key=B_88 :
+{'layer_num': 2, 'neurons': [8, 3], 'activation_func': ['relu', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.04000000000000001
+0.6849230769230769
+==============================
+Model parameters of key=B_89 :
+{'layer_num': 2, 'neurons': [8, 3], 'activation_func': ['relu', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.8
+0.06666666666666667
+0.6533333333333334
+==============================
+Model parameters of key=B_90 :
+{'layer_num': 2, 'neurons': [8, 3], 'activation_func': ['sigmoid', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.09333333333333332
+0.6955897435897436
+==============================
+Model parameters of key=B_91 :
+{'layer_num': 2, 'neurons': [8, 3], 'activation_func': ['sigmoid', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.7826086956521738
+0.013333333333333334
+0.6287536231884058
+==============================
+Model parameters of key=B_92 :
+{'layer_num': 2, 'neurons': [8, 3], 'activation_func': ['sigmoid', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.04000000000000001
+0.6849230769230769
+==============================
+Model parameters of key=B_93 :
+{'layer_num': 2, 'neurons': [8, 3], 'activation_func': ['sigmoid', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4666666666666667
+0.5555555555555556
+0.013333333333333334
+0.4471111111111111
+==============================
+Model parameters of key=B_94 :
+{'layer_num': 2, 'neurons': [8, 3], 'activation_func': ['sigmoid', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.04000000000000001
+0.6849230769230769
+==============================
+Model parameters of key=B_95 :
+{'layer_num': 2, 'neurons': [8, 3], 'activation_func': ['sigmoid', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.013333333333333334
+0.6795897435897436
+==============================
+Model parameters of key=B_96 :
+{'layer_num': 2, 'neurons': [16, 8], 'activation_func': ['tanh', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.631578947368421
+0.08000000000000002
+0.5212631578947369
+==============================
+Model parameters of key=B_97 :
+{'layer_num': 2, 'neurons': [16, 8], 'activation_func': ['tanh', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4666666666666667
+0.6
+0.02666666666666667
+0.48533333333333334
+==============================
+Model parameters of key=B_98 :
+{'layer_num': 2, 'neurons': [16, 8], 'activation_func': ['tanh', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.04000000000000001
+0.6849230769230769
+==============================
+Model parameters of key=B_99 :
+{'layer_num': 2, 'neurons': [16, 8], 'activation_func': ['tanh', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.631578947368421
+0.08
+0.5212631578947369
+==============================
+Model parameters of key=B_100 :
+{'layer_num': 2, 'neurons': [16, 8], 'activation_func': ['tanh', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.6
+0.7000000000000001
+0.04000000000000001
+0.5680000000000001
+==============================
+Model parameters of key=B_101 :
+{'layer_num': 2, 'neurons': [16, 8], 'activation_func': ['tanh', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4666666666666667
+0.6
+0.0
+0.48
+==============================
+Model parameters of key=B_102 :
+{'layer_num': 2, 'neurons': [16, 8], 'activation_func': ['relu', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.0
+0.0
+0.0
+==============================
+Model parameters of key=B_103 :
+{'layer_num': 2, 'neurons': [16, 8], 'activation_func': ['relu', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4666666666666667
+0.6363636363636364
+0.0
+0.5090909090909091
+==============================
+Model parameters of key=B_104 :
+{'layer_num': 2, 'neurons': [16, 8], 'activation_func': ['relu', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.8
+0.8695652173913043
+0.08
+0.7116521739130435
+==============================
+Model parameters of key=B_105 :
+{'layer_num': 2, 'neurons': [16, 8], 'activation_func': ['relu', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6
+0.6666666666666665
+0.06666666666666667
+0.5466666666666665
+==============================
+Model parameters of key=B_106 :
+{'layer_num': 2, 'neurons': [16, 8], 'activation_func': ['relu', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.8333333333333333
+0.0
+0.6666666666666666
+==============================
+Model parameters of key=B_107 :
+{'layer_num': 2, 'neurons': [16, 8], 'activation_func': ['relu', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4666666666666667
+0.5555555555555556
+0.1
+0.4644444444444445
+==============================
+Model parameters of key=B_108 :
+{'layer_num': 2, 'neurons': [16, 8], 'activation_func': ['sigmoid', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.6
+0.6666666666666665
+0.013333333333333334
+0.5359999999999999
+==============================
+Model parameters of key=B_109 :
+{'layer_num': 2, 'neurons': [16, 8], 'activation_func': ['sigmoid', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.7826086956521738
+0.013333333333333334
+0.6287536231884058
+==============================
+Model parameters of key=B_110 :
+{'layer_num': 2, 'neurons': [16, 8], 'activation_func': ['sigmoid', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.04000000000000001
+0.6849230769230769
+==============================
+Model parameters of key=B_111 :
+{'layer_num': 2, 'neurons': [16, 8], 'activation_func': ['sigmoid', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6
+0.7000000000000001
+0.060000000000000005
+0.5720000000000001
+==============================
+Model parameters of key=B_112 :
+{'layer_num': 2, 'neurons': [16, 8], 'activation_func': ['sigmoid', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.04000000000000001
+0.6849230769230769
+==============================
+Model parameters of key=B_113 :
+{'layer_num': 2, 'neurons': [16, 8], 'activation_func': ['sigmoid', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4
+0.3076923076923077
+0.14
+0.2741538461538462
+==============================
+Model parameters of key=B_114 :
+{'layer_num': 2, 'neurons': [16, 16], 'activation_func': ['tanh', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.4
+0.3076923076923077
+0.013333333333333334
+0.24882051282051285
+==============================
+Model parameters of key=B_115 :
+{'layer_num': 2, 'neurons': [16, 16], 'activation_func': ['tanh', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4666666666666667
+0.5000000000000001
+0.08666666666666667
+0.41733333333333344
+==============================
+Model parameters of key=B_116 :
+{'layer_num': 2, 'neurons': [16, 16], 'activation_func': ['tanh', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.08666666666666667
+0.6942564102564102
+==============================
+Model parameters of key=B_117 :
+{'layer_num': 2, 'neurons': [16, 16], 'activation_func': ['tanh', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6
+0.7500000000000001
+0.03333333333333333
+0.6066666666666668
+==============================
+Model parameters of key=B_118 :
+{'layer_num': 2, 'neurons': [16, 16], 'activation_func': ['tanh', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.6
+0.75
+0.04000000000000001
+0.6080000000000001
+==============================
+Model parameters of key=B_119 :
+{'layer_num': 2, 'neurons': [16, 16], 'activation_func': ['tanh', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4666666666666667
+0.5555555555555556
+0.04000000000000001
+0.4524444444444445
+==============================
+Model parameters of key=B_120 :
+{'layer_num': 2, 'neurons': [16, 16], 'activation_func': ['relu', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.4666666666666667
+0.42857142857142855
+0.04000000000000001
+0.35085714285714287
+==============================
+Model parameters of key=B_121 :
+{'layer_num': 2, 'neurons': [16, 16], 'activation_func': ['relu', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6
+0.7272727272727273
+0.11999999999999998
+0.6058181818181819
+==============================
+Model parameters of key=B_122 :
+{'layer_num': 2, 'neurons': [16, 16], 'activation_func': ['relu', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.3333333333333333
+0.16666666666666669
+0.02666666666666667
+0.1386666666666667
+==============================
+Model parameters of key=B_123 :
+{'layer_num': 2, 'neurons': [16, 16], 'activation_func': ['relu', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4
+0.5714285714285713
+0.02666666666666667
+0.46247619047619043
+==============================
+Model parameters of key=B_124 :
+{'layer_num': 2, 'neurons': [16, 16], 'activation_func': ['relu', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.6
+0.6666666666666665
+0.03333333333333333
+0.5399999999999999
+==============================
+Model parameters of key=B_125 :
+{'layer_num': 2, 'neurons': [16, 16], 'activation_func': ['relu', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6
+0.7000000000000001
+0.02666666666666667
+0.5653333333333334
+==============================
+Model parameters of key=B_126 :
+{'layer_num': 2, 'neurons': [16, 16], 'activation_func': ['sigmoid', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.02666666666666667
+0.6822564102564102
+==============================
+Model parameters of key=B_127 :
+{'layer_num': 2, 'neurons': [16, 16], 'activation_func': ['sigmoid', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.631578947368421
+0.09333333333333332
+0.5239298245614035
+==============================
+Model parameters of key=B_128 :
+{'layer_num': 2, 'neurons': [16, 16], 'activation_func': ['sigmoid', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.0
+0.04000000000000001
+0.008000000000000002
+==============================
+Model parameters of key=B_129 :
+{'layer_num': 2, 'neurons': [16, 16], 'activation_func': ['sigmoid', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6
+0.7000000000000001
+0.05333333333333334
+0.5706666666666668
+==============================
+Model parameters of key=B_130 :
+{'layer_num': 2, 'neurons': [16, 16], 'activation_func': ['sigmoid', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.0
+0.04000000000000001
+0.008000000000000002
+==============================
+Model parameters of key=B_131 :
+{'layer_num': 2, 'neurons': [16, 16], 'activation_func': ['sigmoid', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.761904761904762
+0.02666666666666667
+0.6148571428571429
+==============================
+Model parameters of key=B_132 :
+{'layer_num': 2, 'neurons': [16, 32], 'activation_func': ['tanh', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.1
+0.6969230769230769
+==============================
+Model parameters of key=B_133 :
+{'layer_num': 2, 'neurons': [16, 32], 'activation_func': ['tanh', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6
+0.7500000000000001
+0.013333333333333334
+0.6026666666666668
+==============================
+Model parameters of key=B_134 :
+{'layer_num': 2, 'neurons': [16, 32], 'activation_func': ['tanh', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.3333333333333333
+0.16666666666666669
+0.04000000000000001
+0.14133333333333337
+==============================
+Model parameters of key=B_135 :
+{'layer_num': 2, 'neurons': [16, 32], 'activation_func': ['tanh', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.3333333333333333
+0.5
+0.0
+0.4
+==============================
+Model parameters of key=B_136 :
+{'layer_num': 2, 'neurons': [16, 32], 'activation_func': ['tanh', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.6
+0.7000000000000001
+0.06666666666666667
+0.5733333333333334
+==============================
+Model parameters of key=B_137 :
+{'layer_num': 2, 'neurons': [16, 32], 'activation_func': ['tanh', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6
+0.7000000000000001
+0.02666666666666667
+0.5653333333333334
+==============================
+Model parameters of key=B_138 :
+{'layer_num': 2, 'neurons': [16, 32], 'activation_func': ['relu', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.7826086956521738
+0.07333333333333332
+0.6407536231884058
+==============================
+Model parameters of key=B_139 :
+{'layer_num': 2, 'neurons': [16, 32], 'activation_func': ['relu', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4
+0.5263157894736842
+0.13333333333333333
+0.447719298245614
+==============================
+Model parameters of key=B_140 :
+{'layer_num': 2, 'neurons': [16, 32], 'activation_func': ['relu', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.8
+0.09333333333333334
+0.6586666666666668
+==============================
+Model parameters of key=B_141 :
+{'layer_num': 2, 'neurons': [16, 32], 'activation_func': ['relu', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6
+0.7500000000000001
+0.013333333333333334
+0.6026666666666668
+==============================
+Model parameters of key=B_142 :
+{'layer_num': 2, 'neurons': [16, 32], 'activation_func': ['relu', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.0
+0.08666666666666667
+0.017333333333333336
+==============================
+Model parameters of key=B_143 :
+{'layer_num': 2, 'neurons': [16, 32], 'activation_func': ['relu', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4
+0.39999999999999997
+0.02666666666666667
+0.32533333333333336
+==============================
+Model parameters of key=B_144 :
+{'layer_num': 2, 'neurons': [16, 32], 'activation_func': ['sigmoid', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.6956521739130435
+0.04000000000000001
+0.5645217391304348
+==============================
+Model parameters of key=B_145 :
+{'layer_num': 2, 'neurons': [16, 32], 'activation_func': ['sigmoid', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.3333333333333333
+0.37499999999999994
+0.04000000000000001
+0.308
+==============================
+Model parameters of key=B_146 :
+{'layer_num': 2, 'neurons': [16, 32], 'activation_func': ['sigmoid', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.0
+0.04000000000000001
+0.008000000000000002
+==============================
+Model parameters of key=B_147 :
+{'layer_num': 2, 'neurons': [16, 32], 'activation_func': ['sigmoid', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.7826086956521738
+0.08
+0.6420869565217391
+==============================
+Model parameters of key=B_148 :
+{'layer_num': 2, 'neurons': [16, 32], 'activation_func': ['sigmoid', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.0
+0.04000000000000001
+0.008000000000000002
+==============================
+Model parameters of key=B_149 :
+{'layer_num': 2, 'neurons': [16, 32], 'activation_func': ['sigmoid', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.8333333333333333
+0.08
+0.6826666666666666
+==============================
+Model parameters of key=B_150 :
+{'layer_num': 2, 'neurons': [16, 3], 'activation_func': ['tanh', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.0
+0.07333333333333332
+0.014666666666666665
+==============================
+Model parameters of key=B_151 :
+{'layer_num': 2, 'neurons': [16, 3], 'activation_func': ['tanh', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.761904761904762
+0.05999999999999999
+0.6215238095238096
+==============================
+Model parameters of key=B_152 :
+{'layer_num': 2, 'neurons': [16, 3], 'activation_func': ['tanh', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.0
+0.04000000000000001
+0.008000000000000002
+==============================
+Model parameters of key=B_153 :
+{'layer_num': 2, 'neurons': [16, 3], 'activation_func': ['tanh', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6
+0.7500000000000001
+0.02666666666666667
+0.6053333333333334
+==============================
+Model parameters of key=B_154 :
+{'layer_num': 2, 'neurons': [16, 3], 'activation_func': ['tanh', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.5882352941176471
+0.02666666666666667
+0.47592156862745105
+==============================
+Model parameters of key=B_155 :
+{'layer_num': 2, 'neurons': [16, 3], 'activation_func': ['tanh', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4666666666666667
+0.5555555555555556
+0.05999999999999999
+0.4564444444444445
+==============================
+Model parameters of key=B_156 :
+{'layer_num': 2, 'neurons': [16, 3], 'activation_func': ['relu', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.6956521739130435
+0.10666666666666667
+0.5778550724637681
+==============================
+Model parameters of key=B_157 :
+{'layer_num': 2, 'neurons': [16, 3], 'activation_func': ['relu', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4
+0.4705882352941177
+0.07333333333333333
+0.39113725490196083
+==============================
+Model parameters of key=B_158 :
+{'layer_num': 2, 'neurons': [16, 3], 'activation_func': ['relu', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.75
+0.8571428571428571
+0.05
+0.6957142857142857
+==============================
+Model parameters of key=B_159 :
+{'layer_num': 2, 'neurons': [16, 3], 'activation_func': ['relu', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6
+0.7000000000000001
+0.0
+0.56
+==============================
+Model parameters of key=B_160 :
+{'layer_num': 2, 'neurons': [16, 3], 'activation_func': ['relu', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.6
+0.6666666666666665
+0.08
+0.5493333333333332
+==============================
+Model parameters of key=B_161 :
+{'layer_num': 2, 'neurons': [16, 3], 'activation_func': ['relu', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4666666666666667
+0.6
+0.013333333333333334
+0.48266666666666663
+==============================
+Model parameters of key=B_162 :
+{'layer_num': 2, 'neurons': [16, 3], 'activation_func': ['sigmoid', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.0
+0.04000000000000001
+0.008000000000000002
+==============================
+Model parameters of key=B_163 :
+{'layer_num': 2, 'neurons': [16, 3], 'activation_func': ['sigmoid', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.6666666666666666
+0.04000000000000001
+0.5413333333333333
+==============================
+Model parameters of key=B_164 :
+{'layer_num': 2, 'neurons': [16, 3], 'activation_func': ['sigmoid', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.04000000000000001
+0.6849230769230769
+==============================
+Model parameters of key=B_165 :
+{'layer_num': 2, 'neurons': [16, 3], 'activation_func': ['sigmoid', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6
+0.7500000000000001
+0.1
+0.6200000000000001
+==============================
+Model parameters of key=B_166 :
+{'layer_num': 2, 'neurons': [16, 3], 'activation_func': ['sigmoid', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.0
+0.04000000000000001
+0.008000000000000002
+==============================
+Model parameters of key=B_167 :
+{'layer_num': 2, 'neurons': [16, 3], 'activation_func': ['sigmoid', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.0
+0.6769230769230768
+==============================
+Model parameters of key=B_168 :
+{'layer_num': 2, 'neurons': [32, 8], 'activation_func': ['tanh', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.6
+0.6666666666666665
+0.05999999999999999
+0.5453333333333332
+==============================
+Model parameters of key=B_169 :
+{'layer_num': 2, 'neurons': [32, 8], 'activation_func': ['tanh', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.3333333333333333
+0.4444444444444444
+0.08
+0.3715555555555556
+==============================
+Model parameters of key=B_170 :
+{'layer_num': 2, 'neurons': [32, 8], 'activation_func': ['tanh', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+nan
+0.0
+nan
+nan
+==============================
+Model parameters of key=B_171 :
+{'layer_num': 2, 'neurons': [32, 8], 'activation_func': ['tanh', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4666666666666667
+0.5555555555555556
+0.18000000000000002
+0.48044444444444445
+==============================
+Model parameters of key=B_172 :
+{'layer_num': 2, 'neurons': [32, 8], 'activation_func': ['tanh', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.4666666666666667
+0.42857142857142855
+0.15333333333333332
+0.37352380952380954
+==============================
+Model parameters of key=B_173 :
+{'layer_num': 2, 'neurons': [32, 8], 'activation_func': ['tanh', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4
+0.4705882352941177
+0.06666666666666667
+0.3898039215686275
+==============================
+Model parameters of key=B_174 :
+{'layer_num': 2, 'neurons': [32, 8], 'activation_func': ['relu', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.4666666666666667
+0.5000000000000001
+0.013333333333333334
+0.4026666666666668
+==============================
+Model parameters of key=B_175 :
+{'layer_num': 2, 'neurons': [32, 8], 'activation_func': ['relu', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4666666666666667
+0.6363636363636364
+0.05999999999999999
+0.5210909090909092
+==============================
+Model parameters of key=B_176 :
+{'layer_num': 2, 'neurons': [32, 8], 'activation_func': ['relu', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.3333333333333333
+0.16666666666666669
+0.04000000000000001
+0.14133333333333337
+==============================
+Model parameters of key=B_177 :
+{'layer_num': 2, 'neurons': [32, 8], 'activation_func': ['relu', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.4210526315789474
+0.02666666666666667
+0.3421754385964913
+==============================
+Model parameters of key=B_178 :
+{'layer_num': 2, 'neurons': [32, 8], 'activation_func': ['relu', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.8181818181818182
+0.07333333333333332
+0.6692121212121214
+==============================
+Model parameters of key=B_179 :
+{'layer_num': 2, 'neurons': [32, 8], 'activation_func': ['relu', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4666666666666667
+0.6
+0.07333333333333333
+0.49466666666666664
+==============================
+Model parameters of key=B_180 :
+{'layer_num': 2, 'neurons': [32, 8], 'activation_func': ['sigmoid', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.04000000000000001
+0.6849230769230769
+==============================
+Model parameters of key=B_181 :
+{'layer_num': 2, 'neurons': [32, 8], 'activation_func': ['sigmoid', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4
+0.39999999999999997
+0.10666666666666666
+0.3413333333333333
+==============================
+Model parameters of key=B_182 :
+{'layer_num': 2, 'neurons': [32, 8], 'activation_func': ['sigmoid', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.04000000000000001
+0.6849230769230769
+==============================
+Model parameters of key=B_183 :
+{'layer_num': 2, 'neurons': [32, 8], 'activation_func': ['sigmoid', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4
+0.4705882352941177
+0.013333333333333334
+0.3791372549019608
+==============================
+Model parameters of key=B_184 :
+{'layer_num': 2, 'neurons': [32, 8], 'activation_func': ['sigmoid', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+nan
+0.0
+nan
+nan
+==============================
+Model parameters of key=B_185 :
+{'layer_num': 2, 'neurons': [32, 8], 'activation_func': ['sigmoid', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.631578947368421
+0.08
+0.5212631578947369
+==============================
+Model parameters of key=B_186 :
+{'layer_num': 2, 'neurons': [32, 16], 'activation_func': ['tanh', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.6
+0.7500000000000001
+0.08
+0.6160000000000001
+==============================
+Model parameters of key=B_187 :
+{'layer_num': 2, 'neurons': [32, 16], 'activation_func': ['tanh', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.3333333333333333
+0.4444444444444444
+0.07333333333333333
+0.37022222222222223
+==============================
+Model parameters of key=B_188 :
+{'layer_num': 2, 'neurons': [32, 16], 'activation_func': ['tanh', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.0
+0.02666666666666667
+0.005333333333333334
+==============================
+Model parameters of key=B_189 :
+{'layer_num': 2, 'neurons': [32, 16], 'activation_func': ['tanh', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.3529411764705882
+0.13333333333333333
+0.30901960784313726
+==============================
+Model parameters of key=B_190 :
+{'layer_num': 2, 'neurons': [32, 16], 'activation_func': ['tanh', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.0
+0.6769230769230768
+==============================
+Model parameters of key=B_191 :
+{'layer_num': 2, 'neurons': [32, 16], 'activation_func': ['tanh', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4
+0.5263157894736842
+0.013333333333333334
+0.423719298245614
+==============================
+Model parameters of key=B_192 :
+{'layer_num': 2, 'neurons': [32, 16], 'activation_func': ['relu', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.06666666666666667
+0.6902564102564102
+==============================
+Model parameters of key=B_193 :
+{'layer_num': 2, 'neurons': [32, 16], 'activation_func': ['relu', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6
+0.7500000000000001
+0.02666666666666667
+0.6053333333333334
+==============================
+Model parameters of key=B_194 :
+{'layer_num': 2, 'neurons': [32, 16], 'activation_func': ['relu', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.6
+0.7500000000000001
+0.04000000000000001
+0.6080000000000001
+==============================
+Model parameters of key=B_195 :
+{'layer_num': 2, 'neurons': [32, 16], 'activation_func': ['relu', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.631578947368421
+0.12666666666666665
+0.5305964912280702
+==============================
+Model parameters of key=B_196 :
+{'layer_num': 2, 'neurons': [32, 16], 'activation_func': ['relu', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.8181818181818182
+0.1
+0.6745454545454547
+==============================
+Model parameters of key=B_197 :
+{'layer_num': 2, 'neurons': [32, 16], 'activation_func': ['relu', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4
+0.5714285714285713
+0.13333333333333333
+0.48380952380952374
+==============================
+Model parameters of key=B_198 :
+{'layer_num': 2, 'neurons': [32, 16], 'activation_func': ['sigmoid', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.05333333333333334
+0.6875897435897436
+==============================
+Model parameters of key=B_199 :
+{'layer_num': 2, 'neurons': [32, 16], 'activation_func': ['sigmoid', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4666666666666667
+0.5000000000000001
+0.08666666666666667
+0.41733333333333344
+==============================
+Model parameters of key=B_200 :
+{'layer_num': 2, 'neurons': [32, 16], 'activation_func': ['sigmoid', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.0
+0.04000000000000001
+0.008000000000000002
+==============================
+Model parameters of key=B_201 :
+{'layer_num': 2, 'neurons': [32, 16], 'activation_func': ['sigmoid', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.631578947368421
+0.013333333333333334
+0.5079298245614036
+==============================
+Model parameters of key=B_202 :
+{'layer_num': 2, 'neurons': [32, 16], 'activation_func': ['sigmoid', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.04000000000000001
+0.6849230769230769
+==============================
+Model parameters of key=B_203 :
+{'layer_num': 2, 'neurons': [32, 16], 'activation_func': ['sigmoid', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6
+0.625
+0.013333333333333334
+0.5026666666666667
+==============================
+Model parameters of key=B_204 :
+{'layer_num': 2, 'neurons': [32, 32], 'activation_func': ['tanh', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.0
+0.02666666666666667
+0.005333333333333334
+==============================
+Model parameters of key=B_205 :
+{'layer_num': 2, 'neurons': [32, 32], 'activation_func': ['tanh', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6
+0.7000000000000001
+0.08666666666666667
+0.5773333333333334
+==============================
+Model parameters of key=B_206 :
+{'layer_num': 2, 'neurons': [32, 32], 'activation_func': ['tanh', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.02666666666666667
+0.6822564102564102
+==============================
+Model parameters of key=B_207 :
+{'layer_num': 2, 'neurons': [32, 32], 'activation_func': ['tanh', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.6956521739130435
+0.08
+0.5725217391304348
+==============================
+Model parameters of key=B_208 :
+{'layer_num': 2, 'neurons': [32, 32], 'activation_func': ['tanh', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.0
+0.04000000000000001
+0.008000000000000002
+==============================
+Model parameters of key=B_209 :
+{'layer_num': 2, 'neurons': [32, 32], 'activation_func': ['tanh', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.6666666666666666
+0.1
+0.5533333333333333
+==============================
+Model parameters of key=B_210 :
+{'layer_num': 2, 'neurons': [32, 32], 'activation_func': ['relu', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.02666666666666667
+0.6822564102564102
+==============================
+Model parameters of key=B_211 :
+{'layer_num': 2, 'neurons': [32, 32], 'activation_func': ['relu', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6
+0.7500000000000001
+0.08
+0.6160000000000001
+==============================
+Model parameters of key=B_212 :
+{'layer_num': 2, 'neurons': [32, 32], 'activation_func': ['relu', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.0
+0.0
+0.0
+==============================
+Model parameters of key=B_213 :
+{'layer_num': 2, 'neurons': [32, 32], 'activation_func': ['relu', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.7826086956521738
+0.16666666666666666
+0.6594202898550724
+==============================
+Model parameters of key=B_214 :
+{'layer_num': 2, 'neurons': [32, 32], 'activation_func': ['relu', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.8
+0.15333333333333332
+0.6706666666666667
+==============================
+Model parameters of key=B_215 :
+{'layer_num': 2, 'neurons': [32, 32], 'activation_func': ['relu', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4
+0.5714285714285713
+0.07333333333333333
+0.47180952380952373
+==============================
+Model parameters of key=B_216 :
+{'layer_num': 2, 'neurons': [32, 32], 'activation_func': ['sigmoid', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.04000000000000001
+0.6849230769230769
+==============================
+Model parameters of key=B_217 :
+{'layer_num': 2, 'neurons': [32, 32], 'activation_func': ['sigmoid', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4
+0.4705882352941177
+0.10666666666666666
+0.3978039215686275
+==============================
+Model parameters of key=B_218 :
+{'layer_num': 2, 'neurons': [32, 32], 'activation_func': ['sigmoid', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.04000000000000001
+0.6849230769230769
+==============================
+Model parameters of key=B_219 :
+{'layer_num': 2, 'neurons': [32, 32], 'activation_func': ['sigmoid', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4666666666666667
+0.5555555555555556
+0.10666666666666666
+0.4657777777777778
+==============================
+Model parameters of key=B_220 :
+{'layer_num': 2, 'neurons': [32, 32], 'activation_func': ['sigmoid', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.0
+0.04000000000000001
+0.008000000000000002
+==============================
+Model parameters of key=B_221 :
+{'layer_num': 2, 'neurons': [32, 32], 'activation_func': ['sigmoid', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6
+0.6666666666666665
+0.07333333333333333
+0.5479999999999999
+==============================
+Model parameters of key=B_222 :
+{'layer_num': 2, 'neurons': [32, 3], 'activation_func': ['tanh', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.0
+0.04000000000000001
+0.008000000000000002
+==============================
+Model parameters of key=B_223 :
+{'layer_num': 2, 'neurons': [32, 3], 'activation_func': ['tanh', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.631578947368421
+0.11333333333333333
+0.5279298245614035
+==============================
+Model parameters of key=B_224 :
+{'layer_num': 2, 'neurons': [32, 3], 'activation_func': ['tanh', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.04000000000000001
+0.6849230769230769
+==============================
+Model parameters of key=B_225 :
+{'layer_num': 2, 'neurons': [32, 3], 'activation_func': ['tanh', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.761904761904762
+0.14666666666666667
+0.6388571428571429
+==============================
+Model parameters of key=B_226 :
+{'layer_num': 2, 'neurons': [32, 3], 'activation_func': ['tanh', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.4
+0.3076923076923077
+0.07333333333333333
+0.26082051282051283
+==============================
+Model parameters of key=B_227 :
+{'layer_num': 2, 'neurons': [32, 3], 'activation_func': ['tanh', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4666666666666667
+0.5555555555555556
+0.13333333333333333
+0.47111111111111115
+==============================
+Model parameters of key=B_228 :
+{'layer_num': 2, 'neurons': [32, 3], 'activation_func': ['relu', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.013333333333333334
+0.6795897435897436
+==============================
+Model parameters of key=B_229 :
+{'layer_num': 2, 'neurons': [32, 3], 'activation_func': ['relu', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.6956521739130435
+0.12666666666666665
+0.5818550724637681
+==============================
+Model parameters of key=B_230 :
+{'layer_num': 2, 'neurons': [32, 3], 'activation_func': ['relu', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.0
+0.04000000000000001
+0.008000000000000002
+==============================
+Model parameters of key=B_231 :
+{'layer_num': 2, 'neurons': [32, 3], 'activation_func': ['relu', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.631578947368421
+0.09333333333333332
+0.5239298245614035
+==============================
+Model parameters of key=B_232 :
+{'layer_num': 2, 'neurons': [32, 3], 'activation_func': ['relu', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.02666666666666667
+0.6822564102564102
+==============================
+Model parameters of key=B_233 :
+{'layer_num': 2, 'neurons': [32, 3], 'activation_func': ['relu', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.761904761904762
+0.02666666666666667
+0.6148571428571429
+==============================
+Model parameters of key=B_234 :
+{'layer_num': 2, 'neurons': [32, 3], 'activation_func': ['sigmoid', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.0
+0.04000000000000001
+0.008000000000000002
+==============================
+Model parameters of key=B_235 :
+{'layer_num': 2, 'neurons': [32, 3], 'activation_func': ['sigmoid', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.3333333333333333
+0.37499999999999994
+0.08
+0.316
+==============================
+Model parameters of key=B_236 :
+{'layer_num': 2, 'neurons': [32, 3], 'activation_func': ['sigmoid', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.0
+0.04000000000000001
+0.008000000000000002
+==============================
+Model parameters of key=B_237 :
+{'layer_num': 2, 'neurons': [32, 3], 'activation_func': ['sigmoid', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4
+0.39999999999999997
+0.04000000000000001
+0.328
+==============================
+Model parameters of key=B_238 :
+{'layer_num': 2, 'neurons': [32, 3], 'activation_func': ['sigmoid', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.04000000000000001
+0.6849230769230769
+==============================
+Model parameters of key=B_239 :
+{'layer_num': 2, 'neurons': [32, 3], 'activation_func': ['sigmoid', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.0
+0.6769230769230768
+==============================
+Model parameters of key=B_240 :
+{'layer_num': 2, 'neurons': [3, 8], 'activation_func': ['tanh', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.631578947368421
+0.05999999999999999
+0.5172631578947369
+==============================
+Model parameters of key=B_241 :
+{'layer_num': 2, 'neurons': [3, 8], 'activation_func': ['tanh', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.761904761904762
+0.04000000000000001
+0.6175238095238096
+==============================
+Model parameters of key=B_242 :
+{'layer_num': 2, 'neurons': [3, 8], 'activation_func': ['tanh', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.013333333333333334
+0.6795897435897436
+==============================
+Model parameters of key=B_243 :
+{'layer_num': 2, 'neurons': [3, 8], 'activation_func': ['tanh', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4666666666666667
+0.5555555555555556
+0.05999999999999999
+0.4564444444444445
+==============================
+Model parameters of key=B_244 :
+{'layer_num': 2, 'neurons': [3, 8], 'activation_func': ['tanh', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.6
+0.6666666666666665
+0.05333333333333334
+0.5439999999999999
+==============================
+Model parameters of key=B_245 :
+{'layer_num': 2, 'neurons': [3, 8], 'activation_func': ['tanh', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4666666666666667
+0.5555555555555556
+0.08
+0.4604444444444445
+==============================
+Model parameters of key=B_246 :
+{'layer_num': 2, 'neurons': [3, 8], 'activation_func': ['relu', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.15384615384615385
+0.02666666666666667
+0.1284102564102564
+==============================
+Model parameters of key=B_247 :
+{'layer_num': 2, 'neurons': [3, 8], 'activation_func': ['relu', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.761904761904762
+0.08
+0.6255238095238096
+==============================
+Model parameters of key=B_248 :
+{'layer_num': 2, 'neurons': [3, 8], 'activation_func': ['relu', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.07333333333333333
+0.6915897435897436
+==============================
+Model parameters of key=B_249 :
+{'layer_num': 2, 'neurons': [3, 8], 'activation_func': ['relu', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.5333333333333333
+0.631578947368421
+0.04000000000000001
+0.5132631578947369
+==============================
+Model parameters of key=B_250 :
+{'layer_num': 2, 'neurons': [3, 8], 'activation_func': ['relu', 'sigmoid'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.6
+0.7000000000000001
+0.04000000000000001
+0.5680000000000001
+==============================
+Model parameters of key=B_251 :
+{'layer_num': 2, 'neurons': [3, 8], 'activation_func': ['relu', 'sigmoid'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.8333333333333333
+0.14
+0.6946666666666667
+==============================
+Model parameters of key=B_252 :
+{'layer_num': 2, 'neurons': [3, 8], 'activation_func': ['sigmoid', 'tanh'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.7333333333333333
+0.846153846153846
+0.04000000000000001
+0.6849230769230769
+==============================
+Model parameters of key=B_253 :
+{'layer_num': 2, 'neurons': [3, 8], 'activation_func': ['sigmoid', 'tanh'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.4666666666666667
+0.5555555555555556
+0.02666666666666667
+0.44977777777777783
+==============================
+Model parameters of key=B_254 :
+{'layer_num': 2, 'neurons': [3, 8], 'activation_func': ['sigmoid', 'relu'], 'optimizer': 'sgd', 'loss': 'categorical_crossentropy'}
+0.26666666666666666
+0.0
+0.04000000000000001
+0.008000000000000002
+==============================
+Model parameters of key=B_255 :
+{'layer_num': 2, 'neurons': [3, 8], 'activation_func': ['sigmoid', 'relu'], 'optimizer': 'adam', 'loss': 'categorical_crossentropy'}
+0.6666666666666666
+0.761904761904762
+0.11333333333333333
+0.6321904761904762
+==============================
